@@ -14,7 +14,7 @@
 
 <img src="1º%20Diagrama.png" width="350" height="250">
 
-- **Python:** [1.1.py](1.1.py)
+- **Python:** [Numero X ¿Par o Impar?](1.1.py)
 
 ## 2. La tabla del número X desde 1 hasta el 10
 
@@ -35,7 +35,7 @@
     @enduml
 ```
 
-- **Python:** [1.2.py](1.2.py)
+- **Python:** [Tablas de Multiplicar de Número X](1.2.py)
 
 <img src="2º%20Diagrama.png" width="500" height="350">
 
@@ -73,6 +73,7 @@
 
 <img src="3º%20Diagrama.png" width="500" height="750">
 
+- **Python:** [Número X ¿Es Primo?](1.3.py)
 
 **Realizado por: Óscar García Jaén**
 
