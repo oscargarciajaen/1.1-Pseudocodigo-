@@ -16,6 +16,8 @@
 
 - **Python:** [Numero X ¿Par o Impar?](1.1.py)
 
+- **Kotlin:** [Numero X ¿Par o Impar?](1.1.kt)
+
 ## 2. La tabla del número X desde 1 hasta el 10
 
 ```
@@ -36,6 +38,8 @@
 ```
 
 - **Python:** [Tablas de Multiplicar de Número X](1.2.py)
+
+- **Kotlin:** [Tablas de Multiplicar de Número X](1.2.kt)
 
 <img src="2º%20Diagrama.png" width="500" height="350">
 
@@ -74,6 +78,8 @@
 <img src="3º%20Diagrama.png" width="500" height="750">
 
 - **Python:** [Número X ¿Es Primo?](1.3.py)
+
+- **Kotlin:** [Número X ¿Es Primo?](1.3.kt)
 
 **Realizado por: Óscar García Jaén**
 
